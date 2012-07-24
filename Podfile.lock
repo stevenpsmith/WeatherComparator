@@ -1,0 +1,10 @@
+PODS:
+  - AFNetworking (1.0RC1)
+  - WunderWeather (0.0.1):
+    - AFNetworking
+  - YahooWeather (0.0.1):
+    - AFNetworking
+
+DEPENDENCIES:
+  - WunderWeather (from `https://github.com/stevenpsmith/WunderWeatherService.git', tag `v0.0.2')
+  - YahooWeather (from `https://github.com/stevenpsmith/YahooWeatherService.git', tag `v0.0.3')
